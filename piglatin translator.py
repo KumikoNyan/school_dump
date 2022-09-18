@@ -26,15 +26,11 @@ for x, word in enumerate(words):
                     words[x] = word[z:-1] + word[:z] + "ay" + word[-1] +"\n"
                     has_vowel = True
                     break
-    
-        for y, letter in enumerate(word):
-
-            if letter in vowels:
+                   
                 if word[-1] in both:
                     words[x] = word[y:] + word[:y] + "ay\n"
                     has_vowel = True
                     break
-
 
 pig_latin = ' '.join(words)
 print("Pig Latin:\n",pig_latin)
