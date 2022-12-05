@@ -1,0 +1,8 @@
+Sales Invoice				
+ID	Product	Price	Quantity	Total
+3	Corn Meal	89	3	267
+12	Salt - Kosher	126	2	252
+18	Salami - Genova	161	1	161
+15	Bay Leaf Ground	61	4	244
+45	Steampan - Foil	68	7	476
+			Grand Total	1400

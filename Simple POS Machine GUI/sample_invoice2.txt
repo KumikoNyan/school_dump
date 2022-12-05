@@ -1,0 +1,9 @@
+Sales Invoice				
+ID	Product	Price	Quantity	Total
+1	Soup Bowl Clear 8oz92008	180	2	360
+5	Appetizer - Sausage Rolls	80	8	640
+11	Wine - Redchard Merritt	193	1	193
+19	Cheese - Cambozola	126	3	378
+28	Beer - Paulaner Hefeweisse	122	4	488
+50	Icecream - Dibs	108	2	216
+			Grand Total	2275

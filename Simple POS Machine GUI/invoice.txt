@@ -1,0 +1,15 @@
+SalesID	Product	Price	Quantity	Total
+1	Soup Bowl Clear 8oz92008	180	2	360
+
+5	Appetizer - Sausage Rolls	80	8	640
+
+11	Wine - Redchard Merritt	193	1	193
+
+19	Cheese - Cambozola	126	3	378
+
+Grand Total: 1571SalesID	Product	Price	Quantity	Total
+2	Hersey Shakes	126	4	504
+
+5	Appetizer - Sausage Rolls	76	8	608
+
+Grand Total: 1112
